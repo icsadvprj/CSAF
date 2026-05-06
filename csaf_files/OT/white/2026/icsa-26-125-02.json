@@ -34,7 +34,7 @@
       },
       {
         "category": "other",
-        "text": "For any installation of software related ABB products we strongly recommend the following (non-exhaustive) list of cyber security practices:\n\n\u2013 Isolate special purpose networks (e.g. for automation systems) and remote devices behind firewalls\nand separate them from any general-purpose network (e.g. office or home networks).\n\n\u2013 Install physical controls so no unauthorized personnel can access your devices, components, peripheral equipment, and networks.\n\n\u2013 Never connect programming software or computers containing programing software to any network other than the network for the devices that it is intended for.\n\n\u2013 Scan all data imported into your environment before use to detect potential malware infections.\n\n\u2013 Minimize network exposure for all applications and endpoints to ensure that they are not accessible\nfrom the Internet unless they are designed for such exposure and the intended use requires such.\n\n\u2013 Ensure all nodes are always up to date in terms of installed software, operating system, and firmware\npatches as well as anti-virus and firewall.\n\n\u2013 When remote access is required, use secure methods, such as Virtual Private Networks (VPNs). Recognize that VPNs may have vulnerabilities and should be updated to the most current version available. Also, understand that VPNs are only as secure as the connected devices.\n\nMore information on recommended practices can be found in the following documents:\n- Defense in Depth for B&R products : https://www.br-automation.com/fileadmin/Cyber_Security_-_Defense_in_Depth_for_BR_Products-bdd37e82.pdf",
+        "text": "For any installation of software related B&R products we strongly recommend the following (non-exhaustive) list of cyber security practices:\n\n\u2013 Isolate special purpose networks (e.g. for automation systems) and remote devices behind firewalls\nand separate them from any general-purpose network (e.g. office or home networks).\n\n\u2013 Install physical controls so no unauthorized personnel can access your devices, components, peripheral equipment, and networks.\n\n\u2013 Never connect programming software or computers containing programing software to any network other than the network for the devices that it is intended for.\n\n\u2013 Scan all data imported into your environment before use to detect potential malware infections.\n\n\u2013 Minimize network exposure for all applications and endpoints to ensure that they are not accessible\nfrom the Internet unless they are designed for such exposure and the intended use requires such.\n\n\u2013 Ensure all nodes are always up to date in terms of installed software, operating system, and firmware\npatches as well as anti-virus and firewall.\n\n\u2013 When remote access is required, use secure methods, such as Virtual Private Networks (VPNs). Recognize that VPNs may have vulnerabilities and should be updated to the most current version available. Also, understand that VPNs are only as secure as the connected devices.\n\nMore information on recommended practices can be found in the following documents:\n- Defense in Depth for B&R products : https://www.br-automation.com/fileadmin/Cyber_Security_-_Defense_in_Depth_for_BR_Products-bdd37e82.pdf",
         "title": "General security recommendations"
       },
       {
@@ -166,7 +166,7 @@
         "url": "https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b"
       }
     ],
-    "title": "ABB B&R PVI",
+    "title": "B&R PVI",
     "tracking": {
       "current_release_date": "2026-05-05T06:00:00.000000Z",
       "generator": {
@@ -206,7 +206,7 @@
                 "category": "product_version_range",
                 "name": "<6.5.0",
                 "product": {
-                  "name": "ABB PVI <6.5.0",
+                  "name": "B&R PVI <6.5.0",
                   "product_id": "CSAFPID-0001"
                 }
               },
@@ -214,7 +214,7 @@
                 "category": "product_version",
                 "name": "6.5.0",
                 "product": {
-                  "name": "ABB PVI 6.5.0",
+                  "name": "B&R PVI 6.5.0",
                   "product_id": "CSAFPID-0002"
                 }
               }
@@ -224,7 +224,7 @@
           }
         ],
         "category": "vendor",
-        "name": "ABB"
+        "name": "B&R Industrial Automation GmbH"
       }
     ]
   },
